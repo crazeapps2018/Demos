@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Demos</string>
+    <string name="please_agree_terms">Please agree <b><u>Terms and Conditions</u></b>, <b><u>Privacy Policy</u></b> and <b><u>Cookies</u></b></string>
+
+    <string-array name="item_categories">
+
+        <item>Cricket</item>
+        <item>Tennis</item>
+        <item>Basketball</item>
+        <item>Badminton</item>
+        <item>Kho ko</item>
+        <item>Roo </item>
+        <item>Sira</item>
+
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_title">Title</string>
+    <string name="text_description">Description</string>
+    <string name="stripe_publishable_key">pk_test_51J2FsjSAw5jSio4d3t5sJzlFNdBAxfAG0avtzNzn0axn4kIS6vchVa881orcc46UOzbU3183uN0LcxBP7dLtgOub00lCQg1Eka</string>
+
+
+</resources>
